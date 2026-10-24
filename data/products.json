@@ -1,0 +1,10 @@
+[
+  { "id": 10, "name": "Laptop", "category": "Informatique", "price": 8500, "stock": 8 },
+  { "id": 11, "name": "Souris", "category": "Informatique", "price": 180, "stock": 40 },
+  { "id": 12, "name": "Clavier", "category": "Informatique", "price": 350, "stock": 25 },
+  { "id": 13, "name": "Casque Audio", "category": "Audio", "price": 900, "stock": 15 },
+  { "id": 14, "name": "Enceinte Bluetooth", "category": "Audio", "price": 650, "stock": 12 },
+  { "id": 15, "name": "Cahier A4", "category": "Papeterie", "price": 25, "stock": 200 },
+  { "id": 16, "name": "Stylos (lot de 10)", "category": "Papeterie", "price": 40, "stock": 150 },
+  { "id": 17, "name": "Ecran 24 pouces", "category": "Informatique", "price": 1800, "stock": 10 }
+]
